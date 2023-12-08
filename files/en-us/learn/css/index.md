@@ -1,7 +1,7 @@
 ---
 title: Learn to style HTML using CSS
 slug: Learn/CSS
-page-type: learn-topic
+page-type: learn-topic 
 ---
 
 {{LearnSidebar}}
